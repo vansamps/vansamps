@@ -13,29 +13,18 @@ $body-bg: #fffff0;
 
 .left-image-bg{
 
-  background-image: url(https://vansamps.com/assets/marshall-amp.png);
+  background-image: url(/assets/marshall-amp.png);
   background-size: cover;
   height: 30vh;
-  width: auto;
-  align-items: stretch
 
 }
 
 .right-image-bg{
 
-  background-image: url(https://vansamps.com/assets/les-paul.png);
+  background-image: url(/assets/les-paul.png);
   background-size: cover;
   height: 30vh;
-  width: auto;
-  align-items: stretch
 
-}
-
-.randl-button-text{
-
-  color: #fff;
-  text-align: center;
-  font-size: x-large;
 }
 
 // Import functions and variables to merge maps

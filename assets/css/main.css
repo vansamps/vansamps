@@ -1,24 +1,14 @@
 @charset "UTF-8";
 .left-image-bg {
-  background-image: url(https://evanyohe.github.io/bookish-guide/assets/marshall-amp.png);
+  background-image: url(/assets/marshall-amp.png);
   background-size: cover;
   height: 30vh;
-  width: auto;
-  align-items: stretch;
 }
 
 .right-image-bg {
-  background-image: url(https://evanyohe.github.io/bookish-guide/assets/les-paul.png);
+  background-image: url(/assets/les-paul.png);
   background-size: cover;
   height: 30vh;
-  width: auto;
-  align-items: stretch;
-}
-
-.randl-button-text {
-  color: #fff;
-  text-align: center;
-  font-size: x-large;
 }
 
 /*!
