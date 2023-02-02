@@ -1,9 +1,9 @@
 ---
 
-title: The Big Glossary of Confusing Terminology
+title: Practice One
 layout: default
-tags: Opinion
 author: Evan Yohe
+tags: Opinion
 bgcolor: success
 ---
 Hello everyone; today I wanted to start a rolling blog post to cover all the incredibly varied terminology that you'll come across as you learn to play the guitar, both acoustic and electric.

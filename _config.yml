@@ -8,10 +8,10 @@ keywords            : Guitar, Amplifier, Guitar Amplifier, Amp, Guitars, Amplifi
 
 # Filtering
 except_separator    : "<<>>"
-show_drafts         : true
+show_drafts         : false
 limit_posts         : 0
-future              : true
-unpublished         : true
+future              : false
+unpublished         : false
 
 # Outputting
 permalink           : date

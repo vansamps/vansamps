@@ -1,10 +1,10 @@
 ---
 
-title: Guitar Anatomy
+title: Titled
 layout: default
-tags: Miscellaneous
 author: Evan Yohe
-bgcolor: warning
+tags: Opinion
+bgcolor: danger
 ---
 I say this is no simple terms, to all the guitars I've loved before;
 
