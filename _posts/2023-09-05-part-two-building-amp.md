@@ -1,5 +1,5 @@
 ---
-title: "Practice: One"
+title: "How To Build An Amplifier: Part Two"
 layout: default
 author: Evan Yohe
 tags: Opinion

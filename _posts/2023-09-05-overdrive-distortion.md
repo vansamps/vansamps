@@ -1,8 +1,8 @@
 ---
-title: "Practice: Three"
+title: "Guitar Amplifier Overdrive and Distortion"
 layout: default
 author: Evan Yohe
-tags: Opinion
+tags: Building Learning
 bgcolor: success
 ---
 Hello everyone; today I wanted to start a rolling blog post to cover all the incredibly varied terminology that you'll come across as you learn to play the guitar, both acoustic and electric.
