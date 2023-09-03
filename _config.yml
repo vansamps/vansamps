@@ -7,7 +7,7 @@ author              : Evan Yohe
 keywords            : Guitar, Amplifier, Guitar Amplifier, Amp, Guitars, Amplifiers, Guitar Amplifiers, Amps, 
 
 # Filtering
-except_separator    : "<<>>"
+except_separator    : "<<!--more-->>"
 show_drafts         : false
 limit_posts         : 0
 future              : false

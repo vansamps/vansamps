@@ -6,9 +6,9 @@ tags: Opinion
 bgcolor: success
 ---
 
-# How to Build An Amplifier: Part Three
-
 After you've finished assembling a brand new guitar amplifier you can move on to the next and most important step, tweaking and testing. I know it doesn't sound like the most glamorous job but it is, with out a doubt, the most important part of building a guitar amplifier.
+
+<<!--more-->>
 
 It's critical to point out that tweaking an amplifier requires a fundamental knowledge of how guitar amplifiers are designed and how the actually do the things we want them to do. Because every aspect of our amplifiers are built on the principle of overdriving the amplifier to ***intentionally distort the sound***, without understanding how overdrive and distortion work inside of the amplifier, you are essentially throwing darts at a dartboard in the dark. There can often be multiple different ways to get the desired changes, but changes in a guitar amplifier can often cascade downstream and produce other changes that might not be as desired. Before you go on to read the rest of this post, check out some of my other writing on [overdrive and distortion](https://www.vansamps.com/) in guitar amplifiers.
 
