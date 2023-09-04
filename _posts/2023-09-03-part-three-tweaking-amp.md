@@ -36,11 +36,10 @@ I already listed two of the most common problems with amplifiers above; harsh tr
 - Wz
 
 
- | Test Number | Pickup   | Guitar Volume | Guitar Tone | Normal Volume | Bright Volume | Tone     | 
- | ---         | ---      | ---           | ---         | ---           | ---           | ---      | 
- | #1 - Clean  | Neck     | 10            | 10          | 5             | 4             | 6        | 
- | #1 - Clean  | Neck     | 10            | 10          | 5             | 4             | 6        | 
- | #1 - Clean  | Neck     | 10            | 10          | 5             | 4             | 6        | 
- | #1 - Clean  | Neck     | 10            | 10          | 5             | 4             | 6        | 
- | #1 - Clean  | Neck     | 10            | 10          | 5             | 4             | 6        | 
-
+| Test Number | Pickup   | Guitar Volume | Guitar Tone | Normal Volume | Bright Volume | Tone     |
+| ---         | ---      | ---           | ---         | ---           | ---           | ---      |
+| #1 - Clean  | Neck     | 10            | 10          | 5             | 4             | 6        |
+| #1 - Clean  | Neck     | 10            | 10          | 5             | 4             | 6        |
+| #1 - Clean  | Neck     | 10            | 10          | 5             | 4             | 6        |
+| #1 - Clean  | Neck     | 10            | 10          | 5             | 4             | 6        |
+| #1 - Clean  | Neck     | 10            | 10          | 5             | 4             | 6        |
