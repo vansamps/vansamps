@@ -20,7 +20,7 @@ paginate            : 5
 paginate_path       : "/writing/page:num"
 
 # Handling Reading
-markdown            : GFM
+markdown            : kramdown
 safe                : false
 include             : [".htaccess"]
 exclude             : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/", "dockerfile"]
