@@ -2,7 +2,7 @@
 title: "How To Build An Amplifier: Part One"
 layout: default
 author: Evan Yohe
-tags: Opinion
+tags: Build
 bgcolor: success
 ---
 Hello everyone; today I wanted to start a rolling blog post to cover all the incredibly varied terminology that you'll come across as you learn to play the guitar, both acoustic and electric.
