@@ -2,7 +2,7 @@
 title: "How To Build An Amplifier: Part Three"
 layout: post
 author: Evan Yohe
-tags: Opinion
+tags: Build
 bgcolor: success
 ---
 
