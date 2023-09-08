@@ -34,6 +34,35 @@ layout: default
 
         </ul>
       </div>
+	  <div class="border border-primary border-5 mb-3">
+        <ul class="list-unstyled p-3 m-0">
+
+          {% for tag in site.tags %}
+
+            <li class="mb-1">
+              <span class="btn btn-toggle bg-secondary d-block collapsed" data-bs-toggle="collapse" data-bs-target="#{{ tag[0] }}-collapse" aria-expanded="true"><b>{{ tag[0] }}</b></span>
+              <div class="collapse" id="{{ tag[0] }}-collapse">
+                <ul class="btn-toggle-nav list-unstyled fw-normal p-2">
+
+                {% for post in tag[1] %}
+
+                  <li class="bg-primary bg-opacity-50 m-1 p-1 rounded-3"><a href="{{ post.url }}" class="link-dark text-decoration-none"><b>{{ post.title }}</b></a></li>
+                  
+                {% endfor %}
+                </ul>
+              </div>
+            </li>
+
+          {% endfor %}
+
+          {% for collection in site.collection %}
+
+            <h1>{{ collection[1] }}</h1>
+
+          {% endfor %}
+
+        </ul>
+      </div>
     </div>
     <div class="col-md-8">
 
